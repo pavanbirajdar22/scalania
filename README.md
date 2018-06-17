@@ -1,4 +1,4 @@
-# Pavan's readme
+## Pavan's readme
 
 # [Scalania](http://scalania.pl) - learn Scala by examples
 
@@ -187,4 +187,3 @@ Please use topic branches when sending pull requests rather than committing dire
 * https://github.com/pavelfatin/projecteuler
 * http://specs2.org
 
-# Pavan's readme
