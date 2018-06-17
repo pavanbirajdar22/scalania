@@ -184,3 +184,5 @@ Please use topic branches when sending pull requests rather than committing dire
 * http://aperiodic.net/phil/scala/s-99/
 * https://github.com/pavelfatin/projecteuler
 * http://specs2.org
+
+# Pavan's readme
